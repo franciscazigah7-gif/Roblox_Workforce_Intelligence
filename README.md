@@ -5,10 +5,11 @@ An interactive Power BI HR and operational analytics dashboard designed for Robl
 
 ---
 
+* 📊 [View Presentation Slides (PPTX)](./Workforce%20Intelligence%20%26%20Organizational%20Performance%20Analysis.pptx)
+
 ## 📈 Dashboard Preview
 ![Dashboard Preview](dashboard_overview.png)
 
-* 📊 [View Presentation Slides (PPTX)](./Workforce%20Intelligence%20%26%20Organizational%20Performance%20Analysis.pptx)
 ---
 
 ## 🛠️ Tools & Technologies Used
