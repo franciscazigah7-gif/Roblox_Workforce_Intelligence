@@ -24,5 +24,5 @@ An interactive Power BI HR and operational analytics dashboard designed for Robl
 ---
 
 ## 🚀 How to Interact with the Dashboard
-1. Download the `.pbix` file from this repository: `Roblox_Workforce_Intelligence.pbix`.
+1. Download the `.pbix` file from this repository: `Workforce Intelligence & Organizational Performance.pbix`.
 2. Open the file in **Power BI Desktop** to explore the interactive slicers, drill-through pages, and DAX calculations.
